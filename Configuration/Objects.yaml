@@ -1,0 +1,5 @@
+Bemana\Commanding\CommandBusInterface:
+  className: Bemana\Commanding\CommandBus
+
+Bemana\Commanding\CommandHandlerResolverInterface:
+  className: Bemana\Commanding\CommandHandlerResolver
