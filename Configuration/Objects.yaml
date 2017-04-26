@@ -1,5 +1,5 @@
-Bemana\Commanding\CommandBusInterface:
-  className: Bemana\Commanding\CommandBus
+Meteko\Commanding\CommandBusInterface:
+  className: Meteko\Commanding\CommandBus
 
-Bemana\Commanding\CommandHandlerResolverInterface:
-  className: Bemana\Commanding\CommandHandlerResolver
+Meteko\Commanding\CommandHandlerResolverInterface:
+  className: Meteko\Commanding\CommandHandlerResolver
